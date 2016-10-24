@@ -13,6 +13,8 @@ public class Switch
  	 break;
 	 case 'J': System.out.println('Henrik pa aventyr igen');
  	 break;
+	 case 'K' : System.out.println('added from github');
+         break;
          default:
          System.out.println("MrT is not in position...");
 
