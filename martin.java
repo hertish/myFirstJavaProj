@@ -16,7 +16,7 @@ public class Switch
 	 case 'K' : System.out.println('added from github');
          break;
          default:
-         System.out.println("MrT is not in position...");
+         System.out.println("MrT is in position...");
 
         }
 
