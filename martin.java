@@ -17,6 +17,8 @@ public class Switch
          break;
          default:
          System.out.println("MrT is in position...");
+         //Function call
+ 	 int c = minFunction(a, b);
 
         }
 
