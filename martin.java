@@ -30,8 +30,10 @@ public class Switch
       int min;
       if (n1 > n2)
          min = n2;
-      else
+      if else
         min = n1;
+      else
+      System.out.println('error')
       return min; 
      }
   }
